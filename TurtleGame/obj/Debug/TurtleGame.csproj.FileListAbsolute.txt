@@ -1,0 +1,8 @@
+C:\Users\Толик\CProjects\TurtleGame\bin\Debug\TurtleGame.exe.config
+C:\Users\Толик\CProjects\TurtleGame\bin\Debug\TurtleGame.exe
+C:\Users\Толик\CProjects\TurtleGame\bin\Debug\TurtleGame.pdb
+C:\Users\Толик\CProjects\TurtleGame\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Толик\CProjects\TurtleGame\bin\Debug\SmallBasicLibrary.xml
+C:\Users\Толик\CProjects\TurtleGame\obj\Debug\TurtleGame.csprojResolveAssemblyReference.cache
+C:\Users\Толик\CProjects\TurtleGame\obj\Debug\TurtleGame.exe
+C:\Users\Толик\CProjects\TurtleGame\obj\Debug\TurtleGame.pdb
