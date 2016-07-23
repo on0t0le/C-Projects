@@ -1,0 +1,9 @@
+C:\Users\Толик\CProjects\HelloWorldWForms\HelloWorldWForms\bin\Debug\HelloWorldWForms.exe.config
+C:\Users\Толик\CProjects\HelloWorldWForms\HelloWorldWForms\bin\Debug\HelloWorldWForms.exe
+C:\Users\Толик\CProjects\HelloWorldWForms\HelloWorldWForms\bin\Debug\HelloWorldWForms.pdb
+C:\Users\Толик\CProjects\HelloWorldWForms\HelloWorldWForms\obj\Debug\HelloWorldWForms.csprojResolveAssemblyReference.cache
+C:\Users\Толик\CProjects\HelloWorldWForms\HelloWorldWForms\obj\Debug\HelloWorldWForms.Properties.Resources.resources
+C:\Users\Толик\CProjects\HelloWorldWForms\HelloWorldWForms\obj\Debug\HelloWorldWForms.csproj.GenerateResource.Cache
+C:\Users\Толик\CProjects\HelloWorldWForms\HelloWorldWForms\obj\Debug\HelloWorldWForms.exe
+C:\Users\Толик\CProjects\HelloWorldWForms\HelloWorldWForms\obj\Debug\HelloWorldWForms.pdb
+C:\Users\Толик\CProjects\HelloWorldWForms\HelloWorldWForms\obj\Debug\HelloWorldWForms.MainForm.resources
